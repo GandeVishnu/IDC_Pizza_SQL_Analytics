@@ -2,7 +2,7 @@
 
 🚀 **Mini Project — The Great Pizza Analytics Challenge** 🍕📊  
 
-As part of my 21 Days SQL Learning Journey, I completed a hands-on mini-project analyzing real-world pizza sales data using **PostgreSQL**. This project helped me consolidate SQL fundamentals, including filtering, joins, aggregations, and data cleaning, while deriving actionable business insights.  
+I completed a hands-on mini-project analyzing real-world pizza sales data using **PostgreSQL**. This project helped me consolidate SQL fundamentals, including filtering, joins, aggregations, and data cleaning, while deriving actionable business insights.  
 
 ---
 
